@@ -1,0 +1,71 @@
+.navbar{
+  border-radius: 0px;
+}
+#content{
+  width: 600px;
+  margin: auto;
+}
+#form {
+  padding: 10px;
+  background: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+}
+div.register_form{
+  display: none;
+}
+#td_container{
+  width: 1000px;
+  margin: auto;
+  background: #fff;
+  padding: 10px;
+  padding-top: 40px;
+}
+#sidebar{
+  float:left;
+  width: 18%;
+  background: #f7f7f7;
+}
+#sidebar li{
+  padding: 3px 5px;
+  padding-left: 15px;
+  margin-bottom: 2px;
+}
+#mainContent{
+  float: right;
+  width: 82%;
+}
+#mainContent #head{
+  background: #f7f7f7;
+  border-bottom: 1px solid #ccc;
+  font-size: 14px;
+  padding: 5px;
+  min-height: 65px;
+  line-height: 65px;
+}
+#mainContent #head h2{
+  float: left;
+  font-size: 16px;
+}
+#mainContent #head #add_more{
+  float: right;
+}
+#mainBody{
+  clear: both;
+}
+.brand{
+  position: absolute;
+  margin-left: 500px;
+  padding: 6px;
+  font-size: 25px;
+}
+.clearfix2{
+  padding-top: 10px;
+}
+.moveContent{
+  position: absolute;
+  margin-top: -117px;
+  margin-left: 326px;
+}
